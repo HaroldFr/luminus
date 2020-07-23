@@ -1,0 +1,23 @@
+---
+title: Contributors
+---
+<!-- <h1 class="authors">Contributors</h1> -->
+
+<br>
+
+<ul>
+	{% for author in site.authors %}
+	<li>
+		<h2 class="authors_names">
+			<a href="{{ author.url }}">{{ author.name }}</a>
+		</h2>
+		<h3 class="authors_roles">{{ author.position }}</h3> 
+		<p class="authors_work">{{ author.content | markdownify }}</p>
+
+		<br>
+		<br>
+		<br>
+	</li>
+	{% endfor %}
+</ul>
+
