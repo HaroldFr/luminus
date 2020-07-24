@@ -31,7 +31,7 @@
 baseurl: "luminus" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll 
+github_username:  HaroldFr 
 
 
 # Build settings
@@ -67,6 +67,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+gem "github-pages", group: :jekyll_plugins
 
 # Exclude from processing.
 # The following items will not be processed, by default.
