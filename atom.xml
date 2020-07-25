@@ -5,7 +5,7 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 <title>Notes From Exile</title>
-<link href="https://haroldfr.github.io/blog/atom.html" rel="self"/>
+<link href="https://haroldfr.github.io/atom.html" rel="self"/>
 
 <link href="https://haroldfr.github.io/blog.html"/>
 <updated>{{ site.time | date_to_xmlschema }}</updated>
