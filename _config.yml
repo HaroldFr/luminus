@@ -68,7 +68,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-github: [metadata] 
+# github: [metadata] 
 
 
 # Exclude from processing.
