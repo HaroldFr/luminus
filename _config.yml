@@ -32,7 +32,7 @@ baseurl: "HaroldFr.github.io" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: HaroldFr 
-markdown: kramdown
+# markdown: kramdown
 
 
 # Build settings
@@ -69,7 +69,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-github: [metadata] 
+# github: [metadata] 
 
 
 # Exclude from processing.
