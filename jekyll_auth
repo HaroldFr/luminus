@@ -1,2 +1,2 @@
 export JEKYLL_GITHUB_TOKEN='a0bf71c8310cd819ea8e2b4f60f748296708d2dd'
-SSL_CERT_FILE='cacert-1.pem'
+export SSL_CERT_FILE='cacert-1.pem'
