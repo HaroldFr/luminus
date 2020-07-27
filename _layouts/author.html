@@ -19,7 +19,7 @@
 
 	{{ content }}
 
-	<h2> Pieces </h2>
+	<h2> Articles </h2>
 	<ul>
 		{% assign filtered_posts = site.posts | where: 'author', page.short_name %}
 		{% for post in filtered_posts %}
