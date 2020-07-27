@@ -4,8 +4,6 @@ author: Harold
 title: Thoughts on privacy, security, and transparency 
 ---
 
-		  "Speech is silver, silence is gold." -unattributed
-
 Privacy, security, and transparency are some of the reasons why people move onto a personal website. For these reasons, I chose to host my own webspace for writing. Many social media platforms underperform in these qualities. In regards to these qualities, I’ve heard some favorable things about Jekyll, a static site generator, which runs on a personal server. These are some of the things I considered in publishing my writings on my personal server using Jekyll. 
 
 I. Privacy  
