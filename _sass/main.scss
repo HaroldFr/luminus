@@ -8,11 +8,13 @@ nav {
 	text-align: center;
 	word-spacing: 95px;
 	float: none;
+	text-decoration: none;
 }
 
 
 a {
 	color: #FC9463;
+	text-decoration: none;
 }
 
 a:hover {
@@ -73,3 +75,27 @@ hr {
 	border-top: 1px dotted
 }
 
+.post_content {
+	text-align: justify;
+	margin-top: 40px;
+	margin-right: 200px;
+	margin-left: 200px;
+	font-size: 20px
+
+
+}
+
+.page_title {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 25px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.date_author {
+	text-align: center;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 40px;
+}
