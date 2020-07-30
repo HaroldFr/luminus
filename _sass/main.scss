@@ -1,4 +1,7 @@
 // navigation.html 
+:root {
+	--seagreen: lightseagreen;
+}
 .current {
 	color: whitesmoke;
 		
@@ -13,8 +16,9 @@ nav {
 
 
 a {
-	color: #FC9463;
+	color: #00ccff;
 	text-decoration: none !important;
+	font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 a:hover {
@@ -67,6 +71,7 @@ ul {
 	margin-top: 50px;
 	text-align: center;
 	font-size: 60px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif
 	
 }
 
@@ -98,4 +103,27 @@ hr {
 	margin-right: 200px;
 	margin-left: 200px;
 	margin-top: 40px;
+}
+
+.btn-primary {
+
+    background-color: #FC9463;
+	border-color: #FC9463;
+	text-decoration: none;
+	border-bottom-color: #FC9463
+
+	
+
+}
+
+.btn-primary::after,
+.btn-primary:hover,
+.btn-primary:visited,
+.btn-primary:active,
+.btn-primary:focus {
+	background-color: #FC9463;
+	border-color: #FC9463;
+    background-color: lightseagreen;
+	border-color: lightseagreen;
+	transition-property: var(--seagreen)
 }
