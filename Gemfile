@@ -33,3 +33,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 
+gem "kramdown", ">= 2.3.0"
+
+
