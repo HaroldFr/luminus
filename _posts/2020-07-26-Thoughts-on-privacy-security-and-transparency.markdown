@@ -20,5 +20,5 @@ When you host your personal web-site on your own server, your data is yours. You
 
 These three are strong enough reasons for me to forego the convenience of social media platforms. The disadvatage is that I don't have a nice like button, a premade image, or an algorithm to curate my pieces. However, since I have just created my website, I have actually yet to determine if these qualities will be maintained. I hope that if these thoughts do not save me from those, it may someone else. I also hope that in considering my thoughts about these qualities, my reader has seen that there are several layers of discourse when writing on social media platforms. The layers of discourse consist of how the reader experience the text, the application of data analysis, and conflicting interests, all of which are noise that detract from the meaning of the writer's words. While I am not sure if the qualities of privacy, security, and transparency will be maintained for long, I can be sure that my website will be free of ads and random people giving advice. 
 
-		Copyright © 2020 Harold Francisco - All Rights Reserved
+		
 

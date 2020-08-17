@@ -17,4 +17,4 @@ The structure of commonplace books can give way to creativity. Del Toro’s note
 A commonplace book is not a journal. You won’t find Reagan’s daily complaint in his cards of quotes. Its purpose is to produce ideas for one’s vocation. Reagan’s quotes helped him make speeches, del Toro helped him make ideas for his movies, and Locke helped him rival Pascal, who remembered everything. In revamping my commonplace book, I may make a combination of Locke and del Toro’s method. This way, I can have a larger picture with an index and lend better significance to my notes by giving them pictures. Each of these examples have tailored their design to their purposes. Perhaps the best way to begin is to find that purpose. 
 
 
-		Copyright © 2020 Harold Francisco - All Rights Reserved
+	
