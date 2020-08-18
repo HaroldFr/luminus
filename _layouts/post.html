@@ -11,7 +11,9 @@
 
 <body>
 
-	<div> {% include navigation.html %} </div>
+	<header>
+			<img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+		</header>
 
 	<div class="page_title">
 		<h1>{{ page.title }}</h1>
@@ -39,6 +41,12 @@
 		<h6>The material in this site cannot be republished either online or offline without our permission.</h6>
 	 </div>
 
+	 <br>
+	 
+	 <hr class="div_line">
+
+	 <br>
+	 <div> {% include navigation.html %} </div>
 </body>
 
 </html>

@@ -2,7 +2,10 @@
 layout: post
 author: Harold
 title: Nature in the Indigenous Poetry of the Hanunoo-Mangyans 
+image: /assets/img/cave.jpg
 ---
+
+
 
 Much of poetry comes from memory of the past. A lot of poetry becomes relics of history. The rhymes of Shakespearean sonnets, or the measured rhythm of blank verse, helped actors in reciting their lines. The repetition of a villanelle, sestina, or a pantoum, aids recollection. Not only do the forms serve the preservation of the past, but also the content are historical or belonging to past experience. The reader has to look elsewhere to find a poetic convention that is not another augment to history, which some has mistaken for fantasy. I found such a convention in the poetry of the Hanunoo-Mangyan, who used nature as a form of expression and used poetic conventions to understand nature. 
 
