@@ -2,6 +2,7 @@
 layout: post
 author: Harold
 title: Structure of Thoughts
+image: assets/img/rockMossIMG.jpeg
 ---
 
 I wrote an article about a poetic convention that lacked a regard for time. This one is about commonplace books, a manuscript for sorting and remembering information. While reading “Discourses on Livy,” I wondered about the order Machiavelli wrote his commentary. The “Discourses” consists of three books. The titles are in the form of observations, like “This is how the Romans did this and why it failed.” The book is dense and its history dates all the way back to the Republican era of Rome to the Renaissance. It’s full of interesting anecdotes that Machiavelli examines for political and strategic relevance. He draws anecdotes from his own experience, his contemporary politics, and history from ancient Greece, Rome, and even Asia. This would consists of an extensive collection of references. I was faced with my own way of making sense of the book and how Machiavelli made sense of Livy. 
