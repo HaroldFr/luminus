@@ -145,3 +145,34 @@ hr {
 	margin-right: auto;
 	border-radius: 8px
 }
+
+
+
+//.blog-roll {
+//	display: grid;
+//	grid-template-columns:  
+	//grid-template-rows: 75px;}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 90px;
+	column-gap: 30px;
+
+}	
+
+.blog-roll-img {
+	width: 80%; 
+	height: auto;
+	object-fit: cover;
+	float: right;
+	grid-column: span 5;
+
+	
+}
+	
+.headline-grid {
+	float: left;
+}
+	
+	  

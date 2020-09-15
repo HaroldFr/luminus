@@ -3,6 +3,7 @@ layout: post
 author: Harold
 title: Nature in the Indigenous Poetry of the Hanunoo-Mangyans 
 image: /assets/img/cave.jpg
+headline: On a poetic convention inspired by nature without a regard for history
 ---
 
 

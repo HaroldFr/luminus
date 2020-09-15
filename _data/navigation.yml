@@ -1,6 +1,6 @@
-- name: Index
+- name: Contents
   link: /blog.html
-- name: Reviews 
-  link: /reviews.html
 - name: Contributors 
   link: /contributors.html
+- name: Portfolio 
+  link: /reviews.html
