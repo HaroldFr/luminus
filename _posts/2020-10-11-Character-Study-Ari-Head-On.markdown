@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Harold
-title: Character Study of Ari from the movie "Head On"
+title: Character Study of Ari from the Movie "Head On"
 image: assets/img/flower001.jpeg
 headline: On Ari's Journey of Pleasure and Certainty
 ---
@@ -20,6 +20,6 @@ The protagonist is a young man brought up in a Greek household with orthodox val
 
 I found this character to be provocative and reflective of the decisions that gay men must make early on in life. Paul Capsis, who plays Johnny/Toula in the movie, relates to Ari in a similar way when he says in an interview, 
 
-"I understood the world was hostile – Australian men, Greek men … the Greeks I grew up with were from the religious viewpoint that it was 'unnatural'. I heard a lot of 'just keep it to yourself', 'just marry a girl and then do what you want."
+"I understood the world was hostile – Australian men, Greek men … the Greeks I grew up with were from the religious viewpoint that it was 'unnatural'. I heard a lot of 'just keep it to yourself', 'just marry a girl and then do what you want.'"
 
 It is interesting that the protagonist does not identify himself sexually even though he defends his transgender friend. Ari's transition from one party to the next while confronting culture and society with his sexuality and behavior is exhausting. It almost seems that his quest is self-destructive. The character is based on the author of the book that inspired the movie, Christos Tsiolkas. I have not read the book, "Loaded", so I can only assume that the film is different. This movie is different from other gay films and yet it addresses the same issues found in other coming of age narrative about same sex love. Mainly, the realization of same sex attraction changes the path one takes in life and the question must be answered alone.  
